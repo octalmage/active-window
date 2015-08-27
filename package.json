@@ -1,0 +1,11 @@
+{
+  "name": "active-window",
+  "version": "0.0.1",
+  "description": "Get active window title.",
+  "main": "index.js",
+  "author": "Jason Stallings <jason@stallin.gs>",
+  "license": "MIT",
+  "dependencies": {
+    "multiline": "^1.0.2"
+  }
+}
