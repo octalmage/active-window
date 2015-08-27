@@ -12,3 +12,7 @@ activeWindow(function(window)
   console.log("Title: " + window.title);
 });
 ```
+
+## License 
+
+MIT
