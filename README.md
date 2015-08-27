@@ -1,6 +1,8 @@
 # active-window
 > Get active window title in Node.js.
 
+Currently only supports Mac OS X. 
+
 ## Usage 
 
 ```
