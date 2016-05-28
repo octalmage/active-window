@@ -1,7 +1,7 @@
 # active-window
 > Get active window title in Node.js.
 
-Compatible with Linux, Windows 7 + , OSX;
+Compatible with Linux, Windows 7+, and OSX;
 
 ## Usage
 
@@ -28,7 +28,7 @@ monitor.getActiveWindow(callback);
 
 
 ```
-##Tested on
+## Tested on
 - Windows
  - Windows 10
  - Windows 7
@@ -38,9 +38,10 @@ monitor.getActiveWindow(callback);
 - OSX
   - Yosemite 10.10.1
 
-##TODO
+## TODO
 
-- Test in more OS and GUIs.
+- Test on more operating systems.
+- Use native APIs. 
 
 ## License
 
