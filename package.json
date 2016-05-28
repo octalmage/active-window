@@ -1,11 +1,15 @@
 {
   "name": "active-window",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Get active window title.",
   "main": "index.js",
-  "author": "Jason Stallings <jason@stallin.gs>",
+  "contributors":[{ "name" : "Jason Stallings "
+                  , "email" : "jason@stallin.gs"
+                  , "url" : ""},
+                  { "name" : "Robson Vieira"
+                  , "email" : "robsonvnasc@gmail.com"
+                  , "url" : ""}
+                ],
   "license": "MIT",
-  "dependencies": {
-    "multiline": "^1.0.2"
-  }
+  "dependencies": {}
 }
