@@ -26,7 +26,7 @@ exports.getActiveWindow = function(callback,repeats,interval){
 
   parameters  = config.parameters;
   parameters.push(repeats);
-  parameters.push(interval);
+  parameters.push(process.platform == 'win32' ? (interval * 1000 | 0) : interval);
 
   //Run shell script
   const ls  = spawn(config.bin,parameters);
