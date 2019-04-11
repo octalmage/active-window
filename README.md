@@ -1,4 +1,4 @@
-#Attention, this library is not maintained anymore!!!
+# Attention, this library is not maintained anymore!!!
 
 # active-window
 > Get active window title in Node.js.
